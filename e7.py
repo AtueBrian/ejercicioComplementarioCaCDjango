@@ -8,7 +8,7 @@
 #  ingresar(cantidad): se ingresa una cantidad a la cuenta, si la cantidad introducida es 
 # negativa, no se hará nada. 
 #  retirar(cantidad): se retira una cantidad a la cuenta. La cuenta puede estar en números 
-# rojos.
+# rojos.ccc
 
 
 class Persona:
